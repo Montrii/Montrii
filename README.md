@@ -5,10 +5,19 @@ Here, i work on both Web Development (HTML, CSS, JS), and Backend Development (J
 > Even though those are great coding languages to use, those aren't really the fields i would wanna work on.
 > In my free time, i usually use up alot of time for learning Unity (and coresponding: C#) and C++. 👾
 
-Currently i'm working on creating a new Discordbot with @DarkKeyMaster and @GruenHub.
+Currently i'm working on creating a new Discordbot with [DarkKeyMaster][2] and [GruenHub][3].
 
-Besides that, i am all open to create individual projects based on demand (LUA 
+Besides that, i am all open to create individual projects based on demand ([LUA][1] 
 <img width="26px" src="https://www.iconninja.com/files/112/287/700/prog-lua-icon.png"> projects for example).
+
+
+
+
+
+
+[1]: https://www.lua.org/
+[2]: https://github.com/DarkKeyMaster
+[3]: https://github.com/GruenHub
 
 <!--
 **Montrii/Montrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
