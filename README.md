@@ -1,7 +1,6 @@
 ### Hi there 👋
 I am a Trainee in the profession IT specialist in application development.
 
-
 Here, i work on both Web Development (HTML, CSS, JS), and Backend Development (Java, C# and PHP). 
 > Even though those are great coding languages to use, those aren't really the fields i would wanna work on.
 > In my free time, i usually use up alot of time for learning Unity (and coresponding: C#) and C++. 👾
