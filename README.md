@@ -11,13 +11,19 @@ Besides that, i am all open to create individual projects based on demand ([LUA]
 <img width="26px" src="https://www.iconninja.com/files/112/287/700/prog-lua-icon.png"> projects for example).
 
 
+### Social Media 🥳
 
+<img width="26px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png">[Youtube][4]
+
+<img width="26px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png">[Twitter][5]
 
 
 
 [1]: https://www.lua.org/
 [2]: https://github.com/DarkKeyMaster
 [3]: https://github.com/GruenHub
+[4]: https://www.youtube.com/channel/UC4PPKU7nUuoOWIk9ofNxj0w
+[5]: https://twitter.com/Montrinupti
 
 <!--
 **Montrii/Montrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
