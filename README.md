@@ -1,9 +1,14 @@
 ### Hi there 👋
 I am a Trainee in the profession IT specialist in application development.
 
-Here, i work on both Web Development (HTML, CSS, JS), and Backend Development (Java, C# and PHP). 
+Here, i work on both Web Development (HTML, CSS, JS), and Backend Development (Java, C#, C and PHP). 
 > Even though those are great coding languages to use, those aren't really the fields i would wanna work on.
 > In my free time, i usually use up alot of time for learning Unity (and coresponding: C#) and C++. 👾
+
+Currently i'm working on creating a new Discordbot with @DarkKeyMaster and @GruenHub.
+
+Besides that, i am all open to create individual projects based on demand (LUA 
+<img width="26px" src="https://www.iconninja.com/files/112/287/700/prog-lua-icon.png"> projects for example).
 
 <!--
 **Montrii/Montrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
