@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a Trainee in the profession IT specialist in application development.
 
-Here, i work on both Web Development (HTML, CSS and JS), and Backend Development (Java, C#, C and PHP). 
+Here, i work on both Web Development ([HTML][8]<img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/2000px-HTML5_logo_black.svg.png">, [CSS][7]<img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"> and [JS][6]<img width="26px" src="https://i1.wp.com/svg-tt.de/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&w=640">), and Backend Development ([Java][9]<img width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">, C#, C and PHP). 
 > Even though those are great coding languages to use, those aren't really the fields i would wanna work on.
 > In my free time, i usually use up alot of time for learning Unity (coresponding: C#) and C++. 👾
 
@@ -19,11 +19,16 @@ Besides that, i am all open to create individual projects based on demand ([LUA]
 
 
 
+
 [1]: https://www.lua.org/
 [2]: https://github.com/DarkKeyMaster
 [3]: https://github.com/GruenHub
 [4]: https://www.youtube.com/channel/UC4PPKU7nUuoOWIk9ofNxj0w
 [5]: https://twitter.com/Montrinupti
+[6]: https://www.javascript.com/
+[7]: https://css-tricks.com/
+[8]: https://html.com/
+[9]: https://dev.java/
 
 <!--
 **Montrii/Montrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
