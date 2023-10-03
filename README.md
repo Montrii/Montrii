@@ -6,7 +6,7 @@
 My Name is Justin and I'm 21 years of age.<br>
 Until recently, i attended a 3 year long training as Computer Science Expert,<br>
 where I gained alot of knowledge on how software development actually works.<br>
-During my apprenticeship I also attended an internship as a backend developer, which i now do as full time employement (with the Frameworks Laravel, Laravel Nova and Vue.JS).
+During my apprenticeship I also attended an internship as a backend developer, which i now do as full time employment (with the Frameworks Laravel, Laravel Nova and Vue.JS).
 
 Coding has a special meaning to me, as it lets me express my ideas freely.<br>
   
