@@ -4,11 +4,11 @@
 
 <p>
 My Name is Justin and I'm 21 years of age.<br>
-I am currently attending my last year of training as an IT Specialist of Application Development,<br>
+Until recently, i attended a 3 year long training as Computer Science Expert,<br>
 where I gained alot of knowledge on how software development actually works.<br>
-During my apprenticeship I also attended an internship as a backend developer, which i now do as a profession.
+During my apprenticeship I also attended an internship as a backend developer, which i now do as full time employement (with the Frameworks Laravel, Laravel Nova and Vue.JS).
 
-Coding has a special meaning to me, as it lets me express my ideas freely and relatively easily.<br>
+Coding has a special meaning to me, as it lets me express my ideas freely.<br>
   
 My ultimate passion is gaming, meaning most of my projects revolve around either game development or game modding.  <br>
 
