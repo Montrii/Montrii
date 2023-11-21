@@ -40,7 +40,7 @@ Nationalites: <img src="https://img.icons8.com/color/48/null/germany-circular.pn
 </p>
 
 <h3>Education 🎓</h3>
-  <p>● Completed Apprenticeship @ Berufliches Schulzentrum  (2020 - 2023) -> certified Computer Science Expert with 3.5 GPA (1.8 in German, 89 out of 100 Points)
+  <p>● Completed Apprenticeship @ Berufliches Schulzentrum  (2020 - 2023) -> certified Computer Science Expert with 3.3 GPA (1.8 in German, 89 out of 100 Points)
     
     
     
