@@ -61,5 +61,3 @@ Mainly used: `.cpp`, `.c`, `.cs`, `.lua`, `.js`, `.ts`
 </p>
 
 
-<h4>Others</h4>
-
