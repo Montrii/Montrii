@@ -3,7 +3,7 @@
 <h2>Wassup 👋🏻</h2>
 
 <p>
-👋 Hi, I’m Justin, a certified software developer with a strong focus on **.NET** and **C#** development.
+👋 Hi, I’m Justin, a certified software developer with a strong focus on .NET development.
  
   Additionally, i am both U.S. and German Citizen. 
 
