@@ -13,9 +13,8 @@ In my professional career, I work extensively with the Microsoft ecosystem, incl
 🎮 **Coding Beyond Work**  
 Outside the office, I’m passionate about game modding, reverse engineering, and console customization. Whether soldering hardware, writing custom software, or pushing boundaries in programming, I thrive on finding creative and technical solutions.  
 
-🚀 **Technical Stack**  
-I primarily work with:  
-- `.cs`, `.cpp`, `.c`, `.lua`, `.js`, `.ts`  
+🚀 **Most used Coding languages**  
+I primarily work with these languages: `.cs`, `.cpp`, `.c`, `.lua`, `.js`, `.ts`. 
 <br>
 
 ---
