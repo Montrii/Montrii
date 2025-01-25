@@ -15,7 +15,7 @@ Outside the office, I’m passionate about game modding, reverse engineering, an
 
 🚀 **Technical Stack**  
 I primarily work with:  
-- **Languages**: `.cs`, `.cpp`, `.c`, `.lua`, `.js`, `.ts`  
+- `.cs`, `.cpp`, `.c`, `.lua`, `.js`, `.ts`  
 <br>
 
 ---
