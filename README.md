@@ -3,14 +3,19 @@
 <h2>Wassup 👋🏻</h2>
 
 <p>
-I’m Justin, a certified young software developer.
+👋 Hi, I’m Justin, a certified software developer with a strong focus on **.NET** and **C#** development.
+ 
+  Additionally, i am both U.S. and German Citizen. 
 
-During my professional work, I engage with the expansive realm of Microsoft and its countless opportunities.
+💻 **Professional Expertise**  
+In my professional career, I work extensively with the Microsoft ecosystem, including **Dynamics 365** and fullstack development. I specialize in delivering innovative, end-to-end software solutions that bridge complex technical requirements with business goals.  
 
-In my spare time, I delve into the realm of game modding and hacking.
+🎮 **Coding Beyond Work**  
+Outside the office, I’m passionate about game modding, reverse engineering, and console customization. Whether soldering hardware, writing custom software, or pushing boundaries in programming, I thrive on finding creative and technical solutions.  
 
-Mainly used: `.cpp`, `.c`, `.cs`, `.lua`, `.js`, `.ts`
-
+🚀 **Technical Stack**  
+I primarily work with:  
+- **Languages**: `.cs`, `.cpp`, `.c`, `.lua`, `.js`, `.ts`  
 <br>
 
 ---
